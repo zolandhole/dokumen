@@ -10,3 +10,10 @@ Daftar alat mandi:
 1. Sabun
 2. Samphoo
 3. odol
+
+daftar prabotan rumah:
+1.coet
+2.mutu
+3.katel
+4.kompor
+5.gas
